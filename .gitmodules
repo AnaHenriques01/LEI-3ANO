@@ -1,0 +1,27 @@
+[submodule "Computação Gráfica/projetoCG"]
+	path = Computação Gráfica/projetoCG
+	url = https://github.com/AnaHenriques01/projetoCG
+[submodule "Processamento de Linguagens/projetosPL"]
+	path = Processamento de Linguagens/projetosPL
+	url = https://github.com/AnaHenriques01/projetosPL
+[submodule "Comunicações por Computador/projetosCC"]
+	path = Comunicações por Computador/projetosCC
+	url = https://github.com/AnaHenriques01/projetosCC
+[submodule "Desenvolvimento de Sistemas de Software/projetoDSS"]
+	path = Desenvolvimento de Sistemas de Software/projetoDSS
+	url = https://github.com/AnaHenriques01/projetoDSS
+[submodule "Sistemas Distribuídos/projetoSD"]
+	path = Sistemas Distribuídos/projetoSD
+	url = https://github.com/AnaHenriques01/projetoSD
+[submodule "Cálculo de Programas/projetoCP"]
+	path = Cálculo de Programas/projetoCP
+	url = https://github.com/AnaHenriques01/projetoCP
+[submodule "Inteligência Artificial/projetoIA"]
+	path = Inteligência Artificial/projetoIA
+	url = https://github.com/AnaHenriques01/projetoIA
+[submodule "Aprendizagem e Decisão Inteligentes/projetoADI"]
+	path = Aprendizagem e Decisão Inteligentes/projetoADI
+	url = https://github.com/AnaHenriques01/projetoADI
+[submodule "Laboratórios de Informática IV/projetoLI4"]
+	path = Laboratórios de Informática IV/projetoLI4
+	url = https://github.com/AnaHenriques01/projetoLI4
